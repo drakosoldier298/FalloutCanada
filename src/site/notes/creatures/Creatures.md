@@ -8,9 +8,9 @@
 
 [[creatures/shromp\|shromp]] 
 
-[[lynx\|lynx]]
+[[creatures/lynx\|lynx]]
 
-[[Wolverine\|Wolverine]]
+[[creatures/Wolverine\|Wolverine]]
 
 [[creatures/The Mishipeshu or Mishibijiw\|The Mishipeshu or Mishibijiw]] 
 
