@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Fallout Canada/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/fallout-canada/","tags":["gardenEntry"]}
 ---
 
 
 # Fallout Canada
 
 ## A Fallout TTRPG based in the canadian wasteland
-tits
+eggs
   
 
 A fallout story set after the events of the games and show, year Unknown.
