@@ -12,7 +12,7 @@ in <font color="#f79646">2185</font> Settlers moved in and turned Seattle ,West 
 The [[faction/Brotherhood of steel\|Brotherhood of steel]] Wanders seattle in search of relics of the past, they have a base in the space needle, as they do repairs and are working on turning the surrounding area into a town Nicknamed [[locations/Cascadia\|Cascadia]]
 
 The surroundings of the destroyed city have started being taken over by wildlife again with trees and radstags returning the most, as well as geckos migrating from the <font color="#4f81bd">Mojave</font> and <font color="#4f81bd">California</font>
-Oddly [[Mothmen\|Mothmen]] have also started being sighted across the area, No attacks have been reported however. Rumours have it that these arent the same mothman from before the great war but just mutated Moths. 
+Oddly [[creatures/Mothmen\|Mothmen]] have also started being sighted across the area, No attacks have been reported however. Rumours have it that these arent the same mothman from before the great war but just mutated Moths. 
 
 Vaults 
  - <font color="#7030a0">Vault 77</font>, a vault that was meant to test the effects of isolation on a single person alone with a crate of puppets.  Inhabitant eventually went insane and developed split personalities based on the puppets. Located in what used to be greenlake Seattle.

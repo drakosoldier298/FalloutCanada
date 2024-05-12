@@ -20,3 +20,4 @@
 - [ ] Finish the New locations
 - [ ] Finish the New chems
 - [ ] Finish the New creatures
+- [ ] Start on Session Zero.

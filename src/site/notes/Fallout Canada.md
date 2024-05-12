@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fallout-canada/","tags":["gardenEntry"],"dgShowLocalGraph":"true"}
+{"dg-publish":true,"permalink":"/fallout-canada/","tags":["gardenEntry"]}
 ---
 
 
