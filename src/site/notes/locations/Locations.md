@@ -8,4 +8,4 @@
 
 [[locations/Seattle\|Seattle]]
 
-[[locations/mercer-island\|mercer-island]]
+[[locations/Mercer Island\|Mercer Island]]

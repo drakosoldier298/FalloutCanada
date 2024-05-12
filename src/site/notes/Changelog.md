@@ -11,6 +11,11 @@ This is going to be updated with a date and what i wokred on that day.
 **This will have no links to the pages worked on to not confuse the program**
 
   
+## 5/11/24
+- fuuuuuuuuck
+- Added Npcs 
+- worked on Ian soul't
+- started colour coding shit.
 ## 5/10/24
  - Moved From foam to Obsidian digital garden
  - Fixed weird linking issues
