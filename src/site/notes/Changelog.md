@@ -10,6 +10,11 @@ This is going to be updated with a date and what i wokred on that day.
 
 **This will have no links to the pages worked on to not confuse the program**
 
+
+## 5/17/24
+ - Started adding tables to items to make them look better
+ - started work on improving the look and feel of the website.
+ - 
   
 ## 5/11/24
 - fuuuuuuuuck
