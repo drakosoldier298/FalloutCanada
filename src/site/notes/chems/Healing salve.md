@@ -13,7 +13,7 @@ How does it work? Not even the scientists at <font color="#ebf1dd">DayGlow™</f
 - Fucking magic 
 
 
-| Price   | 80 Caps |
-| ------- | ------- |
-| Weight  | .1 LB   |
-<b class="left-thead"></b> 
+| Price  | 80 Caps |
+| ------ | ------- |
+| Weight | .1 LB   |
+<b class="left-thead"></b>
