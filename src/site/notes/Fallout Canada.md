@@ -18,11 +18,10 @@ Starting in seattle
 
 Fully custom perks, Weapons, Races, Creatures, Locations and even some custom chems
 
-  
+
 
 [[todo\|todo]]
-
-  
+[[Changelog\|Changelog]]
 
 ## Table of Contents
 
@@ -40,4 +39,3 @@ Fully custom perks, Weapons, Races, Creatures, Locations and even some custom ch
 
 - [[faction/factions\|factions]]
 
-- [[Changelog\|Changelog]]
