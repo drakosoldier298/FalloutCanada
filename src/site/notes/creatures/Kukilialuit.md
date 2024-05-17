@@ -31,3 +31,13 @@ Supposedly, the Kukilialuit live inland, far away from the coasts. Despite their
 - Only ghouls tend to try and befriend these creatures.
   Level 4-20
   s:10 p:5 e:10 c:2 i:6 a:10 l:4
+
+| Strength     | 10  |
+| ------------ | --- |
+| Perception   | 5   |
+| Endurance    | 10  |
+| Charisma     | 2   |
+| Intelligence | 6   |
+| Agility      | 10  |
+| Luck         | 4   |
+<b class="left-thead"></b>
