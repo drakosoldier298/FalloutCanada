@@ -20,4 +20,6 @@
 - [ ] Finish the New locations
 - [ ] Finish the New chems
 - [ ] Finish the New creatures
-- [ ] Start on Session Zero.
+- [x] Start on Session Zero.
+- [ ] Make more sidequests for session 0
+Actual quests and "important" npc's will be set to public at later dates.
