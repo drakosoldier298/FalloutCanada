@@ -31,3 +31,8 @@
 - Nuclear Material
 
 In Seattle this is maintained by the [[faction/anaconda's\|anaconda's]] 
+
+
+| Price | 400 Caps |
+| ----- | -------- |
+<b class="left-thead"></b>
