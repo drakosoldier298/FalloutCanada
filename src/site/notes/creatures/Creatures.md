@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/creatures/creatures/"}
 ---
 
-#creatures
+
 
 [[creatures/Canadian goose\|Canadian goose]]
 
@@ -14,7 +14,7 @@
 
 [[creatures/The Mishipeshu or Mishibijiw\|The Mishipeshu or Mishibijiw]] 
 
-[[Devil monkey\|Devil monkey]]
+[[creatures/Devil monkey\|Devil monkey]]
 
 [[creatures/Creature of turtle lake\|Creature of turtle lake]] 
 
@@ -23,3 +23,7 @@
 [[creatures/Kukilialuit\|Kukilialuit]]
 
 [[creatures/Kushtaka\|Kushtaka]]
+
+[[creatures/Mothmen\|Mothmen]]
+
+[[creatures/gecko\|gecko]]
