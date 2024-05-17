@@ -6,7 +6,6 @@
 # Fallout Canada
 
 ## A Fallout TTRPG based in the canadian wasteland
-eggs
   
 
 A fallout story set after the events of the games and show, year Unknown.
