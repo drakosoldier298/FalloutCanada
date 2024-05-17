@@ -1,0 +1,19 @@
+/* Left side table heading for for WY Console */
+:is(.cm-table-widget, .markdown-preview-section > div):has(+ * .left-thead) {
+  & thead { background: unset; }
+  & th {
+    background: unset;
+    font-weight: unset;
+  }
+  .markdown-source-view & th {
+    color: var(--col-ed-txt-table);
+  }
+  & table > * > tr > :first-child {
+    font-weight: var(--table-header-weight);
+    background: var(--col-pr-bckg-tableh);
+    color: var(--col-ed-txt-tableh);
+  }
+  .markdown-source-view & table > * > tr > :first-child {
+    background: var(--col-ed-bckg-tableh);
+  }
+}
