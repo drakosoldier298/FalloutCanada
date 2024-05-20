@@ -1,0 +1,35 @@
+/* Marker callouts */
+/*.callout[data-callout="marker"]*/ /* alternative */
+.callout[data-callout=""] {
+  background: unset;
+  --callout-color: 158, 158, 158;
+  --callout-icon: lucide-pin;
+  padding: 0;
+
+  .cm-callout:has(> * > &) + .cm-line:has(br:only-child) { display: none }
+  & > .callout-title {
+    &, & > .callout-icon, & > .callout-fold { display: inline; }
+    & > .callout-title-inner { display: none; }
+  } 
+  &::after {
+    content: attr(data-callout-metadata);
+    color: var(--text-faint);
+    position: absolute;
+    top: 0;
+    left: 40px;
+  }
+  .markdown-preview-section > div:has(> &) { display: none }
+  .callout & { display: none }
+}
+
+/* Left side table heading using marker callout */
+.cm-callout:has(> * > [data-callout-metadata~="left-thead"]) + * + .cm-table-widget table,
+.callout-content > .callout[data-callout-metadata~="left-thead"] + table,
+.markdown-preview-section > div:has(> .callout[data-callout-metadata~="left-thead"]) + div > table {
+  & th { font-weight: unset; }
+  & tr > :first-child {
+    font-weight: var(--table-header-weight);
+    /* additional styles */
+    background-color: color-mix(in srgb, var(--color-base-30), transparent 30%);
+  }
+}
