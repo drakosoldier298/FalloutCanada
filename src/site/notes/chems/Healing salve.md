@@ -12,8 +12,9 @@ How does it work? Not even the scientists at <font color="#ebf1dd">DayGlow™</f
 - do not ingest causes 2 points of damage 
 - Fucking magic 
 
+>[!|left-thead]
 
 | Price  | 80 Caps |
 | ------ | ------- |
 | Weight | .1 LB   |
-<b class="left-thead"></b>
+
