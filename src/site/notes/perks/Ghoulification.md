@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/perks/ghoulification/"}
 ---
 
-# Ghoulification
+
 
 Radiation? That's no concern for you! 
 
