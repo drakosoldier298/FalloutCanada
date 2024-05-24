@@ -4,9 +4,9 @@
 
 
 
-[[creatures/Canadian goose\|Canadian goose]]
+[[creatures/Canadian goose\|Canadian goose]] - "complete"
 
-[[creatures/shromp\|shromp]] 
+[[creatures/shromp\|shromp]] - In progress
 
 [[creatures/lynx\|lynx]]
 
@@ -16,14 +16,12 @@
 
 [[creatures/Devil monkey\|Devil monkey]]
 
-[[creatures/Creature of turtle lake\|Creature of turtle lake]] 
-
 [[creatures/Wechuge\|Wechuge]] 
 
-[[creatures/Kukilialuit\|Kukilialuit]]
+[[creatures/Kukilialuit\|Kukilialuit]] - complete
 
-[[creatures/Kushtaka\|Kushtaka]]
+[[creatures/Kushtaka\|Kushtaka]] - in progress
 
-[[creatures/Mothmen\|Mothmen]]
+[[creatures/Mothmen\|Mothmen]] - In progress
 
-[[creatures/gecko\|gecko]]
+[[creatures/gecko\|gecko]] - in progress
