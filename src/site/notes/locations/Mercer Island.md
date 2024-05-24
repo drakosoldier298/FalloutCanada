@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/mercer-island/"}
 ---
 
-# mercer island
+
 
 Nukashine Facility, 
 
