@@ -3,7 +3,6 @@
 ---
 
 
-# Fallout Canada
 
 ## A Fallout TTRPG based in the canadian wasteland
   
