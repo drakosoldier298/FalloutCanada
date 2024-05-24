@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/settle/"}
 ---
 
-# Settle
+
 
 Founded in the late <font color="#f79646">2100</font>'s by settlers moving from california, the city of Settle was founded in the ruins of the old city. 
 The city is a medical center and a hub for trade in the area. The city is known for its inclusivity and tries to be a safe haven for ghouls. 
