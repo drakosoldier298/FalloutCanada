@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/cascadia/"}
 ---
 
-# Cascadia
+
 
 Founded in <font color="#f79646">2160</font> by the brotherhood of steel, Cascadia is a town built around the space needle.
 
