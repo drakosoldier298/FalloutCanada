@@ -13,6 +13,7 @@ Guaranteed to burn away any infection! May also burn your skin.
 
 Dont just block that bullet wound Cauterize it too!
 
+>[!|left-thead]
 
 | Price  | 100 Caps |     |
 | ------ | -------- | --- |
