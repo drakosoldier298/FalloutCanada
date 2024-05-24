@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/chems/nukashine/"}
 ---
 
-# Nukashine
+
 
 ## Nukashine is technically a combat enhancement chem
 - it is a product originating in 2100 Appalachia 
