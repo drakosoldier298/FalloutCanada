@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/perks/fatigue-reduction/"}
 ---
 
-# Fatigue reduction
+
 
 Feeling tired? No you aren't! Take this perk to ignore 1 point of fatigue per rank. 
  Can only be used once per quest.
