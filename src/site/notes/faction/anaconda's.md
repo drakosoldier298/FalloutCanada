@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/faction/anaconda-s/"}
 ---
 
-# anaconda's
+
 
  A gang that cropped up in [[locations/Seattle\|Seattle]] in <font color="#f79646">2190</font> ish. 
  They go by the name "anaconda's" because of rumours of the Tunnel snakes reaching the area and They are near a river. 
