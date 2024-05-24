@@ -17,4 +17,3 @@ How does it work? Not even the scientists at <font color="#ebf1dd">DayGlow™</f
 | Price  | 80 Caps |
 | ------ | ------- |
 | Weight | .1 LB   |
-
