@@ -6,3 +6,4 @@
 [[faction/Brotherhood of steel\|Brotherhood of steel]]
 [[faction/JT's\|JT's]] 
 [[faction/anaconda's\|anaconda's]]
+[[faction/Raiders\|Raiders]]
