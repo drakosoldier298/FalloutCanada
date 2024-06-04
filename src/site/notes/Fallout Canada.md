@@ -38,3 +38,4 @@ Fully custom perks, Weapons, Races, Creatures, Locations and even some custom ch
 
 - [[faction/factions\|factions]]
 
+- [[npc/Npc's\|Npc's]]
