@@ -9,7 +9,10 @@
 This is going to be updated with a date and what i wokred on that day.
 
 **This will have no links to the pages worked on to not confuse the program and website**
-
+# 8/21/24 
+Complete overhaul of how things will be done over time.
+- Overhauled to do
+- overhauled the welcome/info page
 # 5/23/24 
 - its been almost a week?!!?
 - Added raider tab, will eb adding more information about different raider groups.
