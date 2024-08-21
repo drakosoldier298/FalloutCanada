@@ -4,14 +4,15 @@
 
 
 
-## A Fallout TTRPG based in the canadian wasteland
+## A Fallout TTRPG based in the Canadian wasteland
   
+Originally planned to start in Seattle now starts in a vault in Canada. The vault portion is to be setup as a one-shot using the things I make for the rest of the campaign.
 
-A fallout story set after the events of the games and show, year Unknown.
+THIS IS NOT USING CANON 
+Due to the amount of research and annoyances I will be taking creative liberty in a lot of the lore, Canada IS NOT IN THE MAIN GAMES, But I will be overhauling how Canada works to fit what kind of story I want and make it a bit more interesting for players.
 
-  
 
-Starting in seattle
+A fallout story set in 2193.
 
   
 
